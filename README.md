@@ -1,4 +1,4 @@
-# Casussen gz en ggz
+# Interoprabiliteitscasussen
 *Een verzameling van generieke interoperabiliteitscasussen met de gehandicaptenzorg of geestelijkegezondheidszorg als middelpunt.*
 
 Deze omgeving bevat beschrijvingen van situaties die te maken hebben met het delen van zorginformatie binnen de gehandicaptenzorg en netwerkzorg waarbij de gehandicaptenzorg is betrokken.

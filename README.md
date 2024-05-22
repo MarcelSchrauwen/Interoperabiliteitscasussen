@@ -8,7 +8,7 @@ Situaties omvatten gedetailleerde analyses van knelpunten, voorgestelde oplossin
 Gezien mijn eigen verantwoordelijkheidsgebieden zijn de casussen beperkt tot de geestelijke gezondheidszorg en de gehandicaptenzorg.
 
 ## Publicatie
-
+- [Interoprabiliteitscasussen](https://marcelschrauwen.github.io/Interoperabiliteitscasussen/?view=id-e1a45e31c38b4f6aafd43b459970b15b)
 ## Belangrijk!
 - Er worden in de publicatie geen namen van specifieke organisaties en personen verwerkt. Uitzonderingen zijn namen van organisaties die breed beschikbare interoperabiliteitsoplossingen leveren aan de zorg.
 - Deze omgeving is bedoeld als omgeving om aan casussen te werken en bevat daardoor bewust geen uitgebreide reviewprocedure. Raadpleeg daarom voor de juiste informatie altijd de bronnen. 

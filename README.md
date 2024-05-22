@@ -10,5 +10,9 @@ Situaties omvatten gedetailleerde analyses van knelpunten, voorgestelde oplossin
 ## Contact
 Vragen stellen en feedback geven kan via discussions
 
+## Belangrijk!
+- Er worden in de publicatie geen namen van specifieke organisaties en personen verwerkt. Uitzonderingen zijn namen van organisaties die breed beschikbare interoperabiliteitsoplossingen leveren aan de zorg.
+- Deze omgeving is bedoeld als omgeving om aan casussen te werken en bevat daardoor bewust geen uitgebreide reviewprocedure. Raadpleeg daarom voor de juiste informatie altijd de bronnen. 
+
 
 

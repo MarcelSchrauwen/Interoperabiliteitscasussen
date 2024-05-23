@@ -92,12 +92,11 @@ xmp {
 }
 
 /* Changing Navbar color can be done by uncommenting and adapting what follows */
-
+/*
 .navbar {
-    background-color: #4b0082;
+    background-color: #017a54;
 }
 
-/*
 .navbar .navbar-nav>li>a:hover {
     background-color: rgb(255 255 255 / 20%);
 }
